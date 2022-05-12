@@ -1,0 +1,3 @@
+com\poliuna\maven\api\rest\repository\ProductDAO.class
+com\poliuna\maven\api\rest\repository\ProductImplDAO.class
+com\poliuna\maven\api\rest\repository\Repository.class
